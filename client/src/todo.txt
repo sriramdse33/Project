@@ -1,0 +1,9 @@
+1. Setup Redux -  Manage our application state
+2. Setup Frontend (Chat App)
+3. Setup reducers and actions
+4.  Chat Queue
+5. Display Messages to user
+6. Get and handle Session IDs for assistant
+7. Handle sending user msgs to application
+8. Add bot responses to Queue
+9. Formatting!
